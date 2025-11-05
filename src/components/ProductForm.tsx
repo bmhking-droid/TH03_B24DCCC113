@@ -1,5 +1,5 @@
 import React, { useState, useContext } from "react";
-import ProductContext, { Product } from "./ProductContext"; // import đúng cách
+import ProductContext, { Product } from "./ProductContext";
 import { useNavigate } from "react-router-dom";
 
 interface Props {
